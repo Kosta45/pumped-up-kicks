@@ -61,7 +61,7 @@ nav {
 }
 
 .slider {
-    background: url('/images/back2.png');
+    background-image: url('/images/back2.png');
     background-size: 100%;
     overflow: hidden;
 }
